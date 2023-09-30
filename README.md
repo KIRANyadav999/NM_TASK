@@ -1,6 +1,6 @@
 Project 6: Chatbot Deployment with IBM Cloud Watson Assistant
 
-
+Phase 1: Problem Definition and Design Thinking
 
 Problem Statement: 
 Create a helpful virtual guide using IBM Cloud Watson Assistant. Customize the chatbot to assist users on popular messaging platforms like Facebook Messenger and Slack. Provide useful information, answer FAQs, and offer a friendly conversational experience. Empower users with quick access to information and create meaningful connections through your virtual guide!
@@ -12,11 +12,12 @@ Chatbot deployment refers to the process of making a chatbot, also known as a co
 Chatbot deployment is a critical phase in the lifecycle of a chatbot project, as it marks the transition from development to real-world use. A well-executed deployment ensures that the chatbot delivers the intended benefits, such as improved customer support, automation of routine tasks, and enhanced user experiences. It also involves ongoing monitoring and maintenance to keep the chatbot performing optimally and meeting user expectations.
 
 Design Thinking: 
+
 Design thinking is a user-centered approach to problem-solving and innovation. When applying design thinking principles to chatbot deployment, the focus is on creating a chatbot that not only functions well but also meets the needs and expectations of its users. Here's a design thinking framework for chatbot deployment:
 
 
-
 Empathize: Understand User Needs and Goals
+
 Conduct user research to gain insights into the needs, behaviors, and pain points of potential chatbot users.
 Create user personas and customer journey maps to visualize the user experience.
 Gather feedback from existing customer support channels to identify common issues and questions.
@@ -49,4 +50,5 @@ Implement regular updates and improvements to the chatbot based on user insights
 8. Scale: Expand Usage and Reach
 As the chatbot proves its value, consider expanding its availability to a broader user base and across additional platforms.
 Prepare for scalability by optimizing infrastructure and resources to handle increased user interactions.
-By following this design thinking framework, you can create a chatbot deployment strategy that prioritizes user needs, aligns with business objectives, and continuously evolves to deliver a valuable and satisfying user experience.
+By following this design thinking framework, we can create a chatbot deployment strategy that prioritizes user needs, aligns with business objectives, and continuously evolves to deliver a valuable and satisfying user experience.
+	
